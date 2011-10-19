@@ -1,3 +1,9 @@
 [submodule "inSCALE-Availability"]
 	path = inSCALE-Availability
 	url = https://github.com/revence27/inSCALE-Availability.git
+[submodule "inSCALE-Content"]
+	path = inSCALE-Content
+	url = https://github.com/revence27/inSCALE-Content
+[submodule "inSCALE-JME"]
+	path = inSCALE-JME
+	url = https://github.com/revence27/inSCALE-JME
