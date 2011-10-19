@@ -7,3 +7,6 @@
 [submodule "inSCALE-JME"]
 	path = inSCALE-JME
 	url = https://github.com/revence27/inSCALE-JME
+[submodule "inSCALE-PerMinute"]
+	path = inSCALE-PerMinute
+	url = https://github.com/revence27/inSCALE-PerMinute
